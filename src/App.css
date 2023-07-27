@@ -1,0 +1,18 @@
+/* App.css */
+body {
+  background-color: #2a303c;
+  color: white; /* Set the text color to white */
+}
+a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 20px;
+  padding: 8px;
+  transition: background-color 0.2s ease;
+}
+a:hover {
+  color: #24d3ee;
+}
+/* Other global styles for the application go here */

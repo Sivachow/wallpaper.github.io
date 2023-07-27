@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wallpaperfront/static/css/main.0703c434.css",
+    "main.js": "/wallpaperfront/static/js/main.eb8ec69f.js",
+    "static/media/landing-banner.png": "/wallpaperfront/static/media/landing-banner.66d9ebabec75834276b6.png",
+    "index.html": "/wallpaperfront/index.html",
+    "main.0703c434.css.map": "/wallpaperfront/static/css/main.0703c434.css.map",
+    "main.eb8ec69f.js.map": "/wallpaperfront/static/js/main.eb8ec69f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0703c434.css",
+    "static/js/main.eb8ec69f.js"
+  ]
+}
